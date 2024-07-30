@@ -372,3 +372,13 @@ It’s automatically generated from your OpenAPI (formerly known as Swagger) Spe
 Asciidoctor is written in Ruby, packaged and distributed as a gem to [RubyGems.org](https://rubygems.org/gems/asciidoctor), and packaged for popular Linux distributions, including Fedora, Debian, Ubuntu, and Alpine. 
 Asciidoctor can be run on the JVM using AsciidoctorJ and in all JavaScript environments using Asciidoctor.js. Asciidoctor is [open source software](https://github.com/asciidoctor/asciidoctor/blob/master/LICENSE) 
 and hosted on [GitHub](https://github.com/asciidoctor/asciidoctor).
+
+```java
+import java.util.*;
+
+class Hello {
+  public static void main(String[] arg){
+    System.out.println("testing" + "another string" + 1);
+  }
+}
+```
